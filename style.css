@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+.media{
+    color: aliceblue;
+}
+.vd{
+    color: aliceblue;
+}
+.video1{
+    display: inline-block;
+    width: 700px;
+}
+
+.video2{
+    display: inline-block;
+    width: 700px;
+}
+
+.video3{
+    display: inline-flex;
+     width: 700px;
+}
+.audio{
+    width: 490px;
+    background-color: azure;
+}
