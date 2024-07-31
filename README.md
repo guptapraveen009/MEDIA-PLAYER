@@ -4,7 +4,7 @@ This collection includes three video files from the Naruto series and one audio 
 Files
 
 Videos
-Naruto Episode 1
+Naruto smaple videos
 
 1   Filename: video1.mp4
     Description: Its is sample video of obito uchiha from naruto shippuden serires
