@@ -28,7 +28,7 @@ body{
 @media only screen and (max-width : 455px){
   .video1,.video2,.video3 {
     display: flex;
-    width : 50%;
+    width : 100%;
   }
   body{
     background-color: burlywood;
