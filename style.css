@@ -9,19 +9,29 @@ body{
 }
 .video1{
     display: inline-block;
-    width: 700px;
+    width: 50%;
 }
 
 .video2{
     display: inline-block;
-    width: 700px;
+    width: 50%;
 }
 
 .video3{
     display: inline-flex;
-     width: 700px;
+     width: 50%;
 }
 .audio{
-    width: 490px;
+    width: 50%;
     background-color: azure;
 }
+@media only screen and (max-width : 455px){
+  .video1,.video2,.video3 {
+    display: flex;
+    width : 20%;
+  }
+  body{
+    background-color: burlywood;
+  }
+}
+
